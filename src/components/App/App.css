@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
+  margin: 20px 0;
+}
+
+.App__selected-info {
+  color: #333333;
+  font-size: 26px;
+  font-weight: 700;
+  margin: 10px 20px 0 0;
+}
