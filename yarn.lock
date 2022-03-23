@@ -2162,6 +2162,14 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-virtualized@^9.21.20":
+  version "9.21.20"
+  resolved "https://registry.yarnpkg.com/@types/react-virtualized/-/react-virtualized-9.21.20.tgz#756c78b5512a2a1804fdaf749a5f5cff3d805e5b"
+  integrity sha512-i8nZf1LpuX5rG4DZLaPGayIQwjxsZwmst5VdNhEznDTENel9p3A735AdRRp2iueFOyOuWBmaEaDxg8AD3GHilA==
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/react" "*"
+
 "@types/react@*":
   version "16.9.38"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.38.tgz#868405dace93a4095d3e054f4c4a1de7a1ac0680"
